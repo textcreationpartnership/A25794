@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Lord Marquis of Argyle his speech upon the scaffold, the 27 of May 1661 as it was spoken by himself, and written in short-hand by one that was present.</title>
+            <title>Speech upon the scaffold the 27th of May 1661</title>
+            <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25794</idno>
+            <idno type="STC">Wing A3668</idno>
+            <idno type="STC">ESTC R13838</idno>
+            <idno type="EEBO-CITATION">12937191</idno>
+            <idno type="OCLC">ocm 12937191</idno>
+            <idno type="VID">95789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 730:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My Lord Marquis of Argyle his speech upon the scaffold, the 27 of May 1661 as it was spoken by himself, and written in short-hand by one that was present.</title>
+                  <title>Speech upon the scaffold the 27th of May 1661</title>
+                  <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Marquis of, 1598-1661.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:95789:1" rendition="simple:additions"/>
+            <head>
+               <hi>My Lord Marquis</hi> OF ARGYLE HIS SPEECH UPON THE SCAFFOLD, <hi>the</hi> 27 <hi>of</hi> May 1661.</head>
+            <stage>As it was ſpoken by himſelf, and written in Short-hand by one that was preſent.</stage>
+            <p>MAny will expect that I ſhould ſpeak of many things, and according to their ſeveral Opinions and Diſpoſitions, ſo will their Expectations be from me, and conſtructions of me, but I reſolve to diſappoint many; For I came not hither to juſtifie my ſelf, but the Lord, who is holy in all his ways and righteous in all his Works, Holy and Bleſſed is his Name; neither came I to condemn others: I know many will expect, that I will ſpeak againſt the hardneſs of the Sentence pronounced againſt me, but I will ſay nothing to it; <hi>I</hi> bleſs the Lord <hi>I</hi> pardon all men, as <hi>I</hi> deſire to be pardoned of the Lord my ſelf, Let the will of the Lord be done, that is all <hi>I</hi> deſire.</p>
+            <p>
+               <hi>I</hi> hope that ye will have more charity to me now, then ye would have had at an other time, ſince <hi>I</hi> ſpeak before the Lord, to whom <hi>I</hi> muſt give an account very ſhortly; <hi>I</hi> know very well that my words have had but very little weight with many, and that many have miſtaken my words and actings both: Many have thought me to be a great enemy to theſe great works that have of late been brought to paſs; but do not miſtake me good People, <hi>I</hi> ſpeak it in the preſence of the Lord, <hi>I</hi> entered not upon the work of Reforma<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:95789:2"/>with any deſign to advantage my ſelf, or prejudice to the King and his Government, or Perſon, as my Will which was written in the year 1655, and thereafter was delivered to a Friend, in whoſe hands it yet remaineth, can ſhew. As for theſe Calumnies which have gone abroad on me, <hi>I</hi> bleſs God I know them to be no more; And as <hi>I</hi> go to make a Reckoning to my God, <hi>I</hi> am free to any of theſe concerning the Kings Perſon or Government, I was real and cor<g ref="char:EOLhyphen"/>dial in my deſires to bring the King home, and in my endeavours for him when he was at home, and <hi>I</hi> had no correſpondence with the Adverſaries Army, nor any of them the time His Majeſtie was in <hi>Scotland,</hi> nor had <hi>I</hi> any acceſſion to his late Majeſties horrid and execrable Murder, by counſel or knowledge of it, or any other manner of way; This is a Truth, as <hi>I</hi> ſhall anſwer to my Judge; and all the time his Majeſty was in <hi>Scotland, I</hi> was ſtill endeavouring his Ad<g ref="char:EOLhyphen"/>vantage, my Conſcience beareth me witneſs in it, that is for that.</p>
+            <stage>At this he turned about and ſaid, I hope Gentlemen ye will all remember theſe.</stage>
+            <p>I Confeſſe, many look on my condition as a ſuffering condition, but I bleſs the Lord, that he who hath gone before me hath troden the wine preſs of the Fathers Wrath, by whoſe ſufferings, I hope, that my Sufferings ſhall not be eternal, I bleſs him that hath taken away the ſting of my ſufferings: I may ſay, that my Chartor was ſealed the day, for the Lord hath ſaid to me, <hi>Son be of good chear, thy ſins are freely forgiven thee,</hi> and ſo I hope my ſufferings ſhall be eaſie; and ye know the Scripture ſaith, <hi>That the Captain of our Salvation was made perfect through ſufferings.</hi>
+            </p>
+            <p>I ſhall not ſpeak much to theſe things, I am condemned for, leſt I ſhould ſeem to condemn others. It is well known, it is only for Complyance, which is the epidemical fault of the Nation, I wiſh the Lord may pardon them.</p>
+            <p>I ſay there was never an expreſſion in my Submiſſion ſent to the Parliament of the contagion of the times, which may by ſome be miſconſtructed, as if I had intended thereby to lay an imputation upon the Work of Reformation, but I declare I intended no ſuch thing, but it was only in relation to the corruption and failings of men, occaſioned by the prevalency of the Uſurping Power.</p>
+            <p>Now Gentlemen, I think there are three ſorts of People that take up much of the World, and of the Nation: There are firſt the openly profain; and truly <hi>I</hi> might ſay, though <hi>I</hi> have been a Priſoner, yet have not had mine ears ſhut, I hear aſſuredly, that Swearing, Drinking and Whoring were never more common, never more countenanced then now they are; and truly if Ma<g ref="char:EOLhyphen"/>giſtrats were here, I would ſay to them, if they lay freely forth their power for the glorifying of God, by the reſtraining of theſe they would fare the better; if they continue in not reſtraining of it, they will fare the worſe; <hi>I</hi> will ſay no more, but either let People ſhun Profanity, or Magiſtrats reſtrain it, or aſſur<g ref="char:EOLhyphen"/>edly the wrath of God will follow on it. Others, they are not openly profain every one will not allow that, but yet they are careleſs in that matter, if things go well as to their private intereſts, they care not whether Religion or the Kirk of God ſink or ſwim; but whatever they think, God hath laid engage<g ref="char:EOLhyphen"/>ments upon <hi>Scotland,</hi> we are tyed by Covenants to Religion and Reformation, theſe that were then unborn are engaged to it, and in our Baptiſm we are ingaged to it, and it paſſeth the power of any
+<pb n="3" facs="tcp:95789:2"/>under Heaven to abſolve a man from the Oath of God, for which Oath <hi>I</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſently brought here this day; they deceive themſelves, and it may be would deceive others, otherwiſe, (but I will caveat this) loſt people would think this an inſtigation of Rebellion from me, but they are very far in the wrong that think ſo, and that Religion and Loyalty are not conſiſtent, if any man think otherwiſe, Religion is not to be blamed, but they: It is true, it is the duty of every Chriſtian to be Loyal, yet I think the Order of things is as well to be obſerved as their Natures; the order of Religion, as well as the Nature of it; Religion muſt not be the Coak-boat, it muſt be the Ship; God muſt have what is his, as well as <hi>Caeſar</hi> what is his, and theſe are the beſt Subjects that are the beſt Chriſtians, and that I am looked on as a Friend to Refor<g ref="char:EOLhyphen"/>mation is my Glory.</p>
+            <p>There are an other ſort that are truly Godly, and to theſe I muſt ſay, what <hi>I</hi> fear, and truly every one hath reaſon to fear, it is good to fear evil; it is true, the Lord may prevent it, but if he do not, I ſee little probability of it. Theſe times are like to be very ſuffering times, or very ſinning times, and let Chriſtians make their choiſe, there is a ſad Dilemma in the buſineſs, ſin or ſuffer; and truly he that would choiſe the better party, will choiſe to ſuffer; Others there are, that will choiſe to ſin, will not eſcape ſuffering, they ſhall ſuffer, but it may be, not as I do here; (turning him to the Maiden when he ſpoke it] but worſe; mine is Temporal but theirs ſhall be Eternal, and when I ſhall be ſinging, they ſhall be howling; beware therefore of ſinning, what ever ye are aware of, eſpecially in theſe times: Yet <hi>I</hi> cannot ſay of my own Condition, but the Lord in his providence hath minded mercy to me, even in this World, for if <hi>I</hi> had been more favour<g ref="char:EOLhyphen"/>ably dealt with, I fear I might have been overcome with Tenrations, as many others <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, and I fear many more ſhall be, I wiſh the Lord may prevent it, and ſo ſhould have gone out of the World with a more polluted Conſcience, then through the Mercy of God now I have: And hence, my condition is ſuch now, as when I am gone will be ſeen not to be ſuch as many did imagine; It is fit God take me away before I fall in theſe Tentations, yet bleſſed be his Name that I am keeped both from preſent evils and evils to come.</p>
+            <stage>Turing about, he ſpake thoſe to Mr. <hi>Hut<g ref="char:EOLhyphen"/>chiſon,</hi> and then ſpoke to the People.</stage>
+            <p>SOme may expect that I may regrate my own Condition, but truly I neither grudge nor repine, nor do I deſire any revenge: And I declare, I do not repent my going to <hi>London;</hi> for I alwiſe rather had ſuffered any thing than lye under ſuch reproaches as I did: I deſire not that the Lord ſhould judge any nor do <hi>I</hi> judge any, but my ſelf; <hi>I</hi> wiſh as the Lord hath pardoned me, ſo he may pardon them in this and other things, and what they have done to me may never meet them in their Accounts. <hi>I</hi> have no more to ſay, but to beg the Lord, that ſince <hi>I</hi> go away, that they may be bleſſed that ſtayeth behind.</p>
+            <pb n="4" facs="tcp:95789:3"/>
+            <stage>His laſt words, immediatly before he laid his Head on the Block, after his Doublet was off, were theſe.</stage>
+            <p>I Deſire you Gentlemen, and all that heareth me this day, to take notice, And <hi>I</hi> wiſh that all who ſeech me might hear me, that now when <hi>I</hi> am en<g ref="char:EOLhyphen"/>tering to my Eternity, and am to appear before my Judge, and as <hi>I</hi> deſire Sal<g ref="char:EOLhyphen"/>vation, and do expect eternal Salvation and happineſs from him; from my Birth to my Scaffold <hi>I</hi> am free from any acceſſion by my knowledge, concern<g ref="char:EOLhyphen"/>ing Counſel or any other way to his late Majeſties Death, and <hi>I</hi> pray the Lord preſerve his preſent Majeſty, and to pour his beſt Bleſſings upon his Perſon and Government, and the Lord give him good and faithfull Counſellors.</p>
+            <stage>And turuing about to his Friends, he ſaid,</stage>
+            <p>MAny Chriſtians may ſtumble at this, and my Friends may be diſconten<g ref="char:EOLhyphen"/>ted, but when things are rightly conſidered, my Friends have no Diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>it or <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, nor Chriſtians no Stumbling block, but rather an Encourage<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
